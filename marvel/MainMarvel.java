@@ -16,6 +16,7 @@ public class MainMarvel {
             MarvelEvent randomEvent = factory.getRandomEvent();
 
             System.out.println(randomCharacter.display() + " en " + randomEvent.display());
+            System.out.println("aca trabaje yoo");
         }
     }
 }
